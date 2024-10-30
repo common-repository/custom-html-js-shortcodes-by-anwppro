@@ -1,0 +1,26 @@
+// =============================================================
+//    SASS start point for AnWP Custom HTML and JS Shortcodes
+// =============================================================
+
+#anwp_code {
+	
+	&.closed .inside {
+		display: block;
+	}
+	
+	.inside {
+		margin-top: 15px;
+	}
+	
+	button.handlediv {
+		display: none;
+	}
+	
+	.CodeMirror-scroll {
+		margin-right: 0 !important;
+	}
+}
+
+#visibility, #preview-action {
+	display: none;
+}

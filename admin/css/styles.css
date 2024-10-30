@@ -1,0 +1,21 @@
+#anwp_code.closed .inside {
+  display: block;
+}
+
+#anwp_code .inside {
+  margin-top: 15px;
+}
+
+#anwp_code button.handlediv {
+  display: none;
+}
+
+#anwp_code .CodeMirror-scroll {
+  margin-right: 0 !important;
+}
+
+#visibility, #preview-action {
+  display: none;
+}
+
+/*# sourceMappingURL=styles.css.map */
